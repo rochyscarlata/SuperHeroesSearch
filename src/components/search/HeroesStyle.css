@@ -1,0 +1,32 @@
+
+.card-equal-height {
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  width:300px;
+  border-radius: 0.5rem;
+  margin-right: 20px;
+
+}
+.card img{
+	box-shadow: 0 4px 8px 0 rgba(119, 118, 118, 0.2), 0 6px 30px 0 rgba(82, 81, 81, 0.19);
+	border-radius: 0.5rem;
+	max-width: 200px;
+	max-height: 200px;
+	margin: 0 auto;
+	margin-top: -3.5%;
+}
+.card-equal-height .card-footer {
+  margin-top: auto;
+}
+
+.imagenHero{
+  width: 300px;
+  height: 600px;
+}
+
+/* .card{
+
+ box-shadow: 0 4px 8px 0 #00000033, 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+ height:200 ;
+} */
